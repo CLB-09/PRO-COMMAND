@@ -27,4 +27,10 @@ $ apt install git
 
 $ git clone https://github.com/CLB-09/PRO-COMMAND.git
 
+$ ls
+
+$ cd PRO-COMMAND
+
+$ ls
+
 $ python2 PRO-HACK.py
